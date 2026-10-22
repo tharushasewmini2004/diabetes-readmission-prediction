@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# data files (see README for the download link)
+data/
+cleaned/*.csv
+db/*.db
